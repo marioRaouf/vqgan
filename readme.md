@@ -44,6 +44,10 @@ project/
 └── utils.py                 # Utility functions
 ```
 ## Installation
+**simply run:**
+```
+pip install einops tqdm pillow matplotlib torch torchvision
+```
 ### Prerequisites
 Python 3.7+
 
